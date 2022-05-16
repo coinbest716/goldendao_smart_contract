@@ -2,9 +2,11 @@
 
 Goldendao Mint site is created by using Next.js and Node.js, web3.js, ether.js, this NFT is based on ERC1155 which minted 100 presale as 0.88 eth price in 24hrs.
 
-https://goldendao.xyz/
-https://opensea.io/collection/goldendao
-https://etherscan.io/address/0x7e7c8ae51546933ddc3afaeba61266309157f786#code
+https://goldendao.xyz/ <br />
+
+https://opensea.io/collection/goldendao <br />
+
+https://etherscan.io/address/0x7e7c8ae51546933ddc3afaeba61266309157f786#code <br />
 
 ```shell
 npx hardhat accounts
